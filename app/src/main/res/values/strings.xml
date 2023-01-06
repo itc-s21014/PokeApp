@@ -17,8 +17,8 @@
     <string name="great_3">ナイス！</string>
     <string name="great_4">あっぱれ！</string>
     <string name="great_5">やった！</string>
-    <string name="easy">イージー</string>
-    <string name="hard">ハード</string>
+    <string name="easy">簡単</string>
+    <string name="hard">難しい</string>
     <string name="answer">回答</string>
     <string name="input_pokemon">ポケモンの名前を入力</string>
     <string name="mode">%sモード</string>
